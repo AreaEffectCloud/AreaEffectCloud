@@ -5,4 +5,4 @@
 [![My Skills](https://skillicons.dev/icons?i=java,py,cs,css,html,js,vue,django,flask,latex,regex,scala)](https://skillicons.dev)
 
 ## Using Tools:
-[![My Skills](https://skillicons.dev/icons?i=github,git,idea,visualstudio,vscode,stackoverflow,powershell,blender,linux,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,idea,visualstudio,vscode,stackoverflow,powershell,blender,linux)](https://skillicons.dev)
